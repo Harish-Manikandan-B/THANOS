@@ -127,3 +127,8 @@ text.insert(INSERT,"NOTE: The files are encrypted and cannot be retrieved from y
 # Let the window wait for any events 
 window.mainloop()
 #os.system("pause")
+
+
+####################################
+	 AUTHOR - HARISH
+####################################
